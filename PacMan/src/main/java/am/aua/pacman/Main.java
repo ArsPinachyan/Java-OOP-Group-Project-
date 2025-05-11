@@ -10,6 +10,7 @@ import javafx.scene.text.Font;
 import javafx.stage.Stage;
 
 import java.io.IOException;
+import am.aua.pacman.core.*;
 
 public class Main extends Application {
 
